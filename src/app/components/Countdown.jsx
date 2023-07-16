@@ -25,7 +25,7 @@ const Countdown = ({ targetDate }) => {
   }, [targetDate]);
 
   return (
-    <h3 className='flex space-x-2 text-3xl'>     
+    <h3 className='flex space-x-2 text-xl md:text-3xl'>     
       <div>{countdown.days} días : </div>
       <div>{countdown.hours} horas : </div>
       <div>{countdown.minutes} min : </div>

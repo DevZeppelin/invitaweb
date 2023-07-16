@@ -9,7 +9,7 @@ export const Section5 = () => {
         <GiShutRose className="text-6xl mt-12" />
       </div>
       <h3 className="text-xl">Muy Importate para nosotros</h3>
-      <h4 className="text-5xl">¡Que disfrutes mucho!</h4>
+      <h4 className="text-4xl md:text-5xl">¡Que disfrutes mucho!</h4>
       <div id="INFO" className="">
         <div className="grid grid-cols-1 md:grid-cols-2">
           <div className="flex items-center justify-center text-6xl">
@@ -47,7 +47,7 @@ export const Section5 = () => {
           </div>
           <div className="flex items-center justify-center text-6xl">
           <Image
-              className="relative p-2"
+              className="relative p-2 py-8"
               src="/vestimenta.png"
               alt="Imagen novios"
               width={150}
@@ -60,7 +60,7 @@ export const Section5 = () => {
         <div className="grid grid-cols-1 md:grid-cols-2">
           <div className="flex items-center justify-center text-6xl">
           <Image
-              className="relative p-2"
+              className="relative p-2 py-8"
               src="/regalos.png"
               alt="Imagen novios"
               width={150}
