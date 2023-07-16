@@ -7,7 +7,7 @@ export const Section3 = () => {
   return (
     <div className="flex flex-col text-white justify-center space-y-6 my-auto py-16 w-full items-center text-center bg-primary px-2 md:px-20 text-secundary">
       <h3 className="text-3xl">#chinitaypablo</h3>
-      <h4 className="text-3xl md:text-5xl">¡Empezo la cuenta regresiva!</h4>
+      <h4 className="text-3xl md:text-5xl">¡Empezó la cuenta regresiva!</h4>
       <FiHeart className="text-5xl" />
 
       <Countdown targetDate={targetDate} />
