@@ -77,6 +77,9 @@ export const Section5 = () => {
             <h3>
               Alias Banco: <span className="text-2xl">lunademielgyp</span>
             </h3>
+            <h3>
+              Alias Mercadopago: <span className="text-2xl">lunademielgyp.mp</span>
+            </h3>
           </div>
         </div>
       </div>

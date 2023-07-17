@@ -60,7 +60,7 @@ export const Section4 = () => {
               <h2 className="mt-4">Medios de pago:</h2>
               <div>
                 <p className="font-extrabold">Efectivo o transferencia</p>
-                <p>Alias Banco:</p> <h3 className="text-2xl">lunademielgyp</h3>
+                <p>Alias Banco:</p> <h3 className="text-2xl">tarjetasgyp</h3>
                 <div>(enviar comprobante por Whatsapp)</div>
                 <a
           href="https://api.whatsapp.com/send?phone=5492614703877"
@@ -73,7 +73,7 @@ export const Section4 = () => {
               <div>
                 <p className="font-extrabold">MercadoPago</p>
                 <p>Al teléfono 2614703877</p>
-                <p>Alias MP:</p> <h3 className="text-2xl">lunademielgyp.mp</h3>
+                <p>Alias MP:</p> <h3 className="text-2xl">tarjetasgyp.mp</h3>
                 <div>(enviar comprobante por Whatsapp)</div>
                 <a
           href="https://api.whatsapp.com/send?phone=5492614703877"
