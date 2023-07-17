@@ -50,7 +50,7 @@ export const Section4 = () => {
               <div className="text-base pt-2 grid grid-cols-2 grid-">
                 <div>$9500</div> <div className="text-left">Jul - Ago</div>
                 <div>$10500</div> <div className="text-left">Sep - Oct</div>
-                <div>$12000</div> <div className="text-left">Oct - Nov</div>
+                <div>$12000</div> <div className="text-left">Noviembre</div>
               </div>
               <h2 className="">Menores:</h2>
               <div className="text-base grid grid-cols-2">

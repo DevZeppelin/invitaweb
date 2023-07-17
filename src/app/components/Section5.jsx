@@ -4,16 +4,15 @@ import { GiShutRose } from "react-icons/gi";
 export const Section5 = () => {
   return (
     <div className=" flex flex-col text-sec_text justify-center space-y-3 my-auto w-full items-center text-center bg-secunddary px-2 md:px-48">
-
       <div className="p-6">
         <GiShutRose className="text-6xl mt-12" />
       </div>
-      <h3 className="text-xl">Muy Importate para nosotros</h3>
+      <h3 className="text-xl">Muy Importante para nosotros</h3>
       <h4 className="text-4xl md:text-5xl">¡Que disfrutes mucho!</h4>
       <div id="INFO" className="">
         <div className="grid grid-cols-1 md:grid-cols-2">
           <div className="flex items-center justify-center text-6xl">
-          <Image
+            <Image
               className="relative p-2"
               src="/foto.png"
               alt="Imagen novios"
@@ -35,8 +34,7 @@ export const Section5 = () => {
         </div>
 
         <div className="md:grid flex flex-col-reverse grid-cols-1 md:grid-cols-2">
-
-        <div className="p-10 space-y-2 bg-primary text-secundary text-left">
+          <div className="p-10 space-y-2 bg-primary text-secundary text-left">
             <h4 className="text-3xl">Código de vestimenta</h4>
             <h3 className="text-xl pb-4">Formal Tranqui</h3>
             <p className="text-base">
@@ -46,7 +44,7 @@ export const Section5 = () => {
             </p>
           </div>
           <div className="flex items-center justify-center text-6xl">
-          <Image
+            <Image
               className="relative p-2 py-8"
               src="/vestimenta.png"
               alt="Imagen novios"
@@ -59,7 +57,7 @@ export const Section5 = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2">
           <div className="flex items-center justify-center text-6xl">
-          <Image
+            <Image
               className="relative p-2 py-8"
               src="/regalos.png"
               alt="Imagen novios"
@@ -71,11 +69,14 @@ export const Section5 = () => {
           <div className="p-10 space-y-2 bg-primary text-secundary text-left">
             <h4 className="text-3xl">Regalos</h4>
             <h3 className="text-xl pb-4">¡Gracias!</h3>
+            <p className="text-base">El regalo es que nos acompañen. </p>
             <p className="text-base">
-              Significa mucho para nosotros tu ayuda, para que así pueda nuestro
-              sueño, ser una realidad.
+              Pero si aún quieres ayudarnos con la luna de miel, te dejamaos
+              nuestro alias:
             </p>
-            <h3>Alias Banco: <span className="text-2xl">lunademielgyp</span></h3>
+            <h3>
+              Alias Banco: <span className="text-2xl">lunademielgyp</span>
+            </h3>
           </div>
         </div>
       </div>
