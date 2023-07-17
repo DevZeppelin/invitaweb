@@ -42,7 +42,7 @@ export const Section4 = () => {
 
         <div id="INFO" className="ml-0 md:ml-6">
           <div>
-              <h4 className="font-bold text-3xl">Precio Tarjetas</h4>
+              <h4 className="font-bold text-3xl pt-12 md:pt-0">Precio Tarjetas</h4>
               <div className="italic z-20 text-xl pt-4 pb-11 "></div>
 
             <div className="p-2 m-2 space-y-3 gap-5 bg-primary text-secundary rounded-lg mb-12" >
