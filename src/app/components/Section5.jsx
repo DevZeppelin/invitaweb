@@ -75,10 +75,10 @@ export const Section5 = () => {
               nuestro alias:
             </p>
             <h3>
-              Alias Banco: <span className="text-2xl">lunademielgyp</span>
+              Alias Banco: <span className="text-2xl">lunademiel.gyp</span>
             </h3>
             <h3>
-              Alias Mercadopago: <span className="text-2xl">lunademielgyp.mp</span>
+              Alias Mercadopago: <span className="text-2xl">lunademiel.gyp.mp</span>
             </h3>
           </div>
         </div>
