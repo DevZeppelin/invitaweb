@@ -18,7 +18,7 @@ export const Section3 = () => {
         </p>
       </div>
       <div className="text-3xl">3 de Marzo de 2024</div>
-      <div>16:30 A 00:30</div>
+      <div>16:00 A 00:30</div>
     </div>
   );
 };
