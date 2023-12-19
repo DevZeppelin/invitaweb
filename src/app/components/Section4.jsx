@@ -48,8 +48,7 @@ export const Section4 = () => {
             <div className="p-2 m-2 space-y-3 gap-5 bg-primary text-secundary rounded-lg mb-12" >
               <BsEnvelopePaperHeart className="mx-auto text-4xl m-4" />
               <div className="text-base pt-2 grid grid-cols-2 grid-">
-                <div>$12000</div> <div className="text-left">Noviembre</div>
-                <div>$17000</div> <div className="text-left">Diciembre</div>
+                <div>$18000</div> <div className="text-left">Diciembre</div>
                 <div>$22000</div> <div className="text-left">Enero</div>
               </div>
               <h2 className="">Menores:</h2>
